@@ -1,21 +1,11 @@
 # Header 1
 
 Text
-MasterBranch
+
 ## Header 2A
 
-Text 2
+2A
 
 ## Header 2B
 
-New Text
-
-
-new adds
-
-Commit made from dev branch
-
-
-From original
-
-from dev
+2B
